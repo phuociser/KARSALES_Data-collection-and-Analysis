@@ -25,3 +25,4 @@ Tweaked the web scraper github repo (above) to scrape 1000 job postings from gla
 *	Links
 ## Data Cleaning
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
+(upcoming)
