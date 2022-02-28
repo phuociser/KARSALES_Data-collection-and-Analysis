@@ -1,7 +1,27 @@
-"# KARSALES_Data-collection-and-Analysis" 
-## nguồn gốc sức mạnh
-Link này mình hiểu được xpath nè: https://www.youtube.com/watch?v=m3liwOyJPC8&ab_channel=LX_schlee
-Link này tiếng việt giúp mình khum nhiều lắm nhưng mà hay xỉu: https://www.youtube.com/watch?v=hfnBswCe4QE&t=962s&ab_channel=%E1%BB%A8ngD%E1%BB%A5ngL%E1%BA%ADpTr%C3%ACnhPython
-link này là chỉ mình cách try execpt đặc điểm link 1 không nói : https://16892.net/?qa=995578/
-link này mình sẽ thử để data colection: https://www.youtube.com/watch?v=fhi4dOhmW-g&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&index=3&ab_channel=KenJee\
-Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+## KARSALES_Data-collection-and-Analysis.
+
+* Created a tool that estimates car sale price to help customers buy car at the price the car should be paid.
+* Scraped over 30.000 price and information using python and selenium.
+* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
+* Built a client facing API using flask (upcoming).
+## Code and Resources Used
+**Python Version:** 3.7  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium
+**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
+**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+## Web Scraping
+Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
+*	Hãng
+*	Dòng xe
+*	Giá
+*	Số Chỗ
+*	số Km đã chạy
+*	Tình Trạng
+*	Năm sản Xuất
+*	Hộp số
+*	Nhiên liệu
+*	Xuất sứ
+*	Kiểu Dáng
+*	Links
+## Data Cleaning
+After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
