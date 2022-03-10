@@ -90,6 +90,12 @@ Using sk-learn module to automate analyze the data
 * split into two data set :
  * Train set  
  * test set
+
+The main reason of spliting the data into 2 dataset is to help the model not valuate the over-fiting and under-fitting the model
+
+![image](https://user-images.githubusercontent.com/98181828/157718042-09694798-7530-46d3-8df7-f83adc5b316e.png)
+
+
 ![image](https://user-images.githubusercontent.com/98181828/157666835-640c1e1b-447f-46cd-b089-14f008ba1efb.png)
 
 have MAPE 
