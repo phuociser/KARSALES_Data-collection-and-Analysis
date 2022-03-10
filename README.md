@@ -85,7 +85,10 @@ This model is have some issue about the data .
 ![image](https://user-images.githubusercontent.com/98181828/157666540-e3cc7345-ea7e-4413-9219-3c4e2957104a.png)
 
 # Model into production
-
+Using sk-learn module to automate analyze the data
+* split into two data set :
+ * Train set  
+ * test set
 ![image](https://user-images.githubusercontent.com/98181828/157666835-640c1e1b-447f-46cd-b089-14f008ba1efb.png)
 
 have MAPE 
