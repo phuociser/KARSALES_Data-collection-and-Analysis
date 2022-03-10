@@ -2,6 +2,7 @@
 
 * Created a tool that estimates car sale price to help customers buy car at the price the car should be paid.
 * Scraped over 30.000 price and information using python and selenium.
+* Visualize the data with customer demand
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 * Built a client facing API using flask (upcoming).
 ## Web Scraping
