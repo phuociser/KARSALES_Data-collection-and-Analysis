@@ -39,11 +39,11 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 # Data Visualization
 I created a data visualization base on customer need and have these scenerio.
 
-![image][Screenshot 2022-03-10 192613](https://user-images.githubusercontent.com/98181828/157662465-da6026d3-c609-4227-8654-d3b770d7ec7c.png).
+![image](https://user-images.githubusercontent.com/98181828/157670277-1b23ad49-b6a8-401e-a664-9c30f9652e05.png)
 
 * This is one of the result.
 
-![image][274271140_1218646471998453_7081529657132566550_n](https://user-images.githubusercontent.com/98181828/157662720-5e5867ac-8831-4014-8f55-4a6fa4a84936.png).
+![image](https://user-images.githubusercontent.com/98181828/157670324-9e6c10cc-e86b-4915-89f7-053398704a51.png)
 
 # Model Building
 This model is have some issue about the data .
