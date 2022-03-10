@@ -45,6 +45,11 @@ I created a data visualization base on customer need and have these scenerio.
 
 ![image](https://user-images.githubusercontent.com/98181828/157670584-2b91fb85-1e57-482b-b552-17c12c236931.png)
 
+* Colusion : 
+ * It's provide us the total of data have been analized
+ * The range of price that the car are selling in the market
+ * the price the data suggest you should paid for that car
+
 # Model Building
 This model is have some issue about the data .
 
