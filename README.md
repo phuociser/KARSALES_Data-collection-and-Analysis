@@ -42,7 +42,7 @@ I created a data visualization base on customer need and have these scenerio.
 ![image](https://user-images.githubusercontent.com/98181828/157670277-1b23ad49-b6a8-401e-a664-9c30f9652e05.png)
 
 * This is one of the result.
-* 
+
 ![image](https://user-images.githubusercontent.com/98181828/157670584-2b91fb85-1e57-482b-b552-17c12c236931.png)
 
 # Model Building
