@@ -33,9 +33,9 @@ After scraping the data, I needed to clean it up so that it was usable for our m
   * Nhiên liệu 
   * Xuất sứ 
   * Kiểu Dáng 
-  * and also get rid of 'Khác' variable from 'Số Chỗ' 
-* Eliminate all string variable of 'Năm sản xuất' and convert it to int for further Exploretory Analysis.
-* Replace column 'Năm sản xuất' by "Số Tuổi'. 'Số tuổi' = 2022 - 'Năm sản xuất'.
+  * and also get rid of `Khác` variable from `Số Chỗ` 
+* Eliminate all string variable of `Năm sản xuất` and convert it to int for further Exploretory Analysis.
+* Replace column 'Năm sản xuất' by `Số Tuổi`. `Số tuổi` = `2022 - 'Năm sản xuất`
 # Data Visualization
 I created a data visualization base on customer need and have these scenerio.
 
