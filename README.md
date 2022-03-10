@@ -39,5 +39,5 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## Data Visualization
 I created a data visualization base on customer need and have these scenerio\
 
-https://github.com/PhuocSimple/KARSALES_Data-collection-and-Analysis/issues/1#issue-1165159205
+![alt text](https://github.com/PhuocSimple/KARSALES_Data-collection-and-Analysis/issues/1#issue-1165159205)
 * This is one of the result
