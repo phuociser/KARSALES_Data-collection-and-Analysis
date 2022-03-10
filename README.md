@@ -23,16 +23,16 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 * Remove all out-lier that have price less than 10.000.000đ and more than 30.000.000.000đ (cause what i have seen that less than 10m is all meterial and more than 30b is not a real car)
 * Decode 'Tình Trạng' 1 mean 'Mới' and 0 mean 'Đã sử dụng'
 * Eliminate all Null variable form columns 
-  * 'Dòng xe', 
-  * 'Hãng'
-  * 'Giá'  
+  * Dòng xe
+  * Hãng
+  * Giá  
 * Replace null by mode of clolumns  
-  * 'Số Chỗ', 
-  * 'Tình Trạng', 
-  * 'Hộp số', 
-  * 'Nhiên liệu', 
-  * 'Xuất sứ', 
-  * 'Kiểu Dáng' 
+  * Số Chỗ
+  * Tình Trạng 
+  * Hộp số
+  * Nhiên liệu 
+  * Xuất sứ 
+  * Kiểu Dáng 
   * and also get rid of 'Khác' variable from 'Số Chỗ' 
 * Eliminate all string variable of 'Năm sản xuất' and convert it to int for further Exploretory Analysis.
 * Replace column 'Năm sản xuất' by "Số Tuổi'. 'Số tuổi' = 2022 - 'Năm sản xuất'.
