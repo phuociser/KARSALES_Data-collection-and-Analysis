@@ -56,7 +56,7 @@ This model is have some issue about the data .
 
 ![image](https://user-images.githubusercontent.com/98181828/157665811-2a244cd1-7c6f-4450-b900-264ba7807fb9.png)
 
-# GIÁ
+## GIÁ
 * The first thing is eliminate all price outlier as you can see it have significant amount of out-lier so in order to use have to remove all of this non useable variable out of the model.
 
 ![image](https://user-images.githubusercontent.com/98181828/157663266-f3188a9a-e5d5-4eb2-895a-e049d59e89c7.png).
@@ -68,7 +68,7 @@ This model is have some issue about the data .
 * After transform the data to Normal Distribution using log-semi method.
 
 ![image](https://user-images.githubusercontent.com/98181828/157663936-c6cdf27b-affa-44a9-a6fd-d93a2d9ca39c.png).
-# Số Km đã chạy
+## Số Km đã chạy
 
 ![image](https://user-images.githubusercontent.com/98181828/157666215-9c6c9882-3954-43df-a4d5-b164cb20517d.png)
 
