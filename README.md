@@ -37,3 +37,6 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 * Eliminate all string variable of 'Năm sản xuất' and convert it to int for further Exploretory Analysis
 * Replace column 'Năm sản xuất' by "Số Tuổi'. 'Số tuổi' = 2022 - 'Năm sản xuất'
 ## Data Visualization
+I created a data visualization base on customer need and have these scenerio
+https://github.com/PhuocSimple/KARSALES_Data-collection-and-Analysis/issues/1#issue-1165159205
+* This is one of the result
